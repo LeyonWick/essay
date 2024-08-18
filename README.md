@@ -1,5 +1,4 @@
-![Uploading Screenshot from 2024-08-18 19-52-17.png…]()
-
+![Screenshot from 2024-08-18 19-52-17](https://github.com/user-attachments/assets/3ac42e55-28c5-4b0e-9ebf-1454720665b1)
 
 ![image](https://github.com/user-attachments/assets/49f3d61b-0190-4e8a-a845-1fb19d571f06)
 ![image](https://github.com/user-attachments/assets/eb0ee839-d8c3-467b-9ade-f346d4b5fcfa)
