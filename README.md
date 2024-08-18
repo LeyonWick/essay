@@ -1,4 +1,18 @@
 ![Screenshot from 2024-08-18 19-27-31](https://github.com/user-attachments/assets/0cb8fa98-77d3-4109-a562-14f90bd8a426)Implementation Section Outline
+![image](https://github.com/user-attachments/assets/49f3d61b-0190-4e8a-a845-1fb19d571f06)
+![image](https://github.com/user-attachments/assets/eb0ee839-d8c3-467b-9ade-f346d4b5fcfa)
+![image](https://github.com/user-attachments/assets/90e4a307-da07-4f84-afda-5f982825de1c)
+![image](https://github.com/user-attachments/assets/06f155d7-0182-4f87-ab22-330fefc1aac8)
+![image](https://github.com/user-attachments/assets/aac655ac-a3bd-43a2-9a4d-fc28ab037ab1)
+![image](https://github.com/user-attachments/assets/25f1a89c-78d2-48d3-878e-7854382a8ac8)
+![image](https://github.com/user-attachments/assets/477607d4-f24d-4d8d-a4ef-474069e75c0e)
+![image](https://github.com/user-attachments/assets/5a37d40e-fec8-496c-bd57-62073ce6c7bb)
+
+
+
+
+
+
 1. Introduction to the Implementation (约500字)
 目标与动机：简要介绍你实施这个项目的目的，以及该实现部分如何与整个研究目的相关联。
 概述：简要说明实现部分的主要步骤，包括数据处理、模型构建、训练过程和评估方法。
