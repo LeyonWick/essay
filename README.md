@@ -1,4 +1,6 @@
 ![Screenshot from 2024-08-18 19-27-31](https://github.com/user-attachments/assets/0cb8fa98-77d3-4109-a562-14f90bd8a426)Implementation Section Outline
+![Uploading image.png…]()
+
 ![image](https://github.com/user-attachments/assets/49f3d61b-0190-4e8a-a845-1fb19d571f06)
 ![image](https://github.com/user-attachments/assets/eb0ee839-d8c3-467b-9ade-f346d4b5fcfa)
 ![image](https://github.com/user-attachments/assets/90e4a307-da07-4f84-afda-5f982825de1c)
